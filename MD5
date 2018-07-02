@@ -1,0 +1,8 @@
+7a8952fffd63c2c2c1fba430ed211d77 *DESCRIPTION
+45bf1d7b08c1109aa84928f233eb6afd *NAMESPACE
+7aca5916df99b812f8e499855338eeca *R/rsyslog.R
+1896d221a4e2013b61d04cb4c7b1ca01 *README.md
+f489530727b57b03a44a1294b36aad7e *man/set_syslog_mask.Rd
+f004b0ffb819fbfeb0d6006b23a7c674 *man/syslog.Rd
+704612b19d41af12fea4786651067824 *src/rsyslog.c
+d7ce1ece2670f74bd79013cb5a8a5a4f *src/rsyslog.h
