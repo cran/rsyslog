@@ -1,9 +1,9 @@
-993e5361f00a0d7b7bf92ceacbf2a396 *DESCRIPTION
+eb0f2ee135b758a6426efb6eeccd9cdc *DESCRIPTION
 45bf1d7b08c1109aa84928f233eb6afd *NAMESPACE
-34cb2e031c0201ec15e6b217dbcdfe03 *NEWS.md
-3d2f52a9a7281a11b5a641e4e33159fd *R/rsyslog.R
+d80d9349cafcfbb936d3996e5ef3b03b *NEWS.md
+4a3250a95fa82030f479aeff23e7062c *R/rsyslog.R
 23f36032ba26177b98ccc452aaf3e46d *README.md
-f489530727b57b03a44a1294b36aad7e *man/set_syslog_mask.Rd
-32621e36cacab351cdbd54c79a1a3bdb *man/syslog.Rd
-c60f5ebfa0006d0778be76373cc7691c *src/rsyslog.c
-3e2d798d90e462b8863559e6e38c305d *src/rsyslog.h
+7f205308f38b1ba8dcb60cdc4c6786ae *man/set_syslog_mask.Rd
+9d2e44d59ad9d9d70df5e6c0fd340726 *man/syslog.Rd
+7815b64c6d972c8401ce3e1f3934ce35 *src/rsyslog.c
+7d204c4e287a5e66c797eeaefc78d088 *src/rsyslog.h
